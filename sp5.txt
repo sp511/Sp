@@ -1,0 +1,38 @@
+<! DOCTYPE html>
+<html>
+	<head>
+	<b> <div style=color:red> RECCSAR</div></b>
+	</head>
+	<body>
+	<p><br> RESSCAR <br><hr/></p>
+	<b>About: </b>
+	<P>We stand for flexibility, simplicity, and transparency.</P>
+	<div style=color:green><b>course details: </b></div>
+	</dl>
+	  <table border=1>
+	    <th>s.no</th>
+		<th>course</th>
+		<th>name</th>
+		<th>amount</th>
+	  <tr>
+	    <td>1</td>
+		<td> java</td>
+		<td>selvaprabhu</td>       
+		<td>6500</td>
+	  </tr>
+	  <tr>
+	    <td>2</td>
+		<td>python</td>
+		<td>uyire</td>
+		<td>65000</td>
+	  </tr>
+	  <tr>
+	    <td>3</td>
+		<td>c++</td>
+		<td>ulagam</td>
+		<td>370</td>
+	  </tr>
+	  <iframe src= "https://reccsar.com/"> </iframe> <br> 
+	  <img src="assets/images/python.jpg" height =280px width =280px />
+	</body>
+	</html>
