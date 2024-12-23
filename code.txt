@@ -1,0 +1,142 @@
+<! DOCTYPE html>
+<html>
+	<head>
+		<style>
+		body{
+			background-image:url("assets/images/1.jpg");
+			background-repeat:no-repeat;
+			background-size:cover;
+			background-attachment:fixed;
+		h1,h2,h3{
+			border-left-style:dotted;
+			border-right-style:dashed;
+			border-top-style:solid;
+			border-color:white;
+			border-width:5px;
+			border-radius:10px;
+		 }
+		h5{
+			poistion;sticky;
+			top:50px;
+		 }
+		 img{
+			opacity:0.7;
+		{
+			margin:30px;
+		 }
+			}
+		p::first-letter{
+			color:yellow;
+		}
+		 ::marker{
+		 color:crimson;
+		 }
+		 selection{
+			color:white;
+			}
+		*{
+		 font-family:georgia;
+		 font-size:20px;
+		 color:black;
+		}
+		a:hover{
+		  color:red;
+		 }
+		a:active{
+		   color:white;
+		   }
+		a:visited{
+		   color:green;
+		  }
+		  }
+		</style>
+	</head>
+	<body>
+	<p>hi my name is selvaprabhu <br> i am studing in velammal college of Engg & tech<br><hr/></p>
+	<h1><div style="color:red">SELVAPRABHU </div> </h1>
+	<h2 style="border-color:yellow">He is the only alagu in the world</h2> 
+      
+	<h3 style="border-color:blue; border-bottom-style:dashed"> sp is a instagram user</h3>
+	<h4> <del> sp is a bad boy</del> </h4>
+	<h5><i><div style="color:green"> phone no </i> </div> <b>7449277589 </b></h5>
+	<h6><mark>call me sp  </mark></h6>
+	<hr/>
+	<ol type="a">
+	   <li>sp here</li>
+	   <li>hi sp</li>
+	</ol>
+	<ul type="square">
+	    <li>hi guys</li>
+		<li>sp here</li>
+	</ul>
+	<dl>
+	  <dt> what are you doing sp?</dt>
+	  <dd> singer</dd>
+	</dl>
+	  <table border=1>
+	    <th colspan=2>s.no product </th>
+		<th>name</th>
+		<th>price</th>
+	  <tr>
+	    <td>1</td>
+		<td rowspan =3> sunscreen</td>
+		<td>Dr.sheth</td>
+		<td>650</td>
+	  </tr>
+	  <tr>
+	    <td>2</td>
+		<td>dot& key</td>
+		<td>350</td>
+		
+	  </tr>
+	  <tr>
+	    <td>3</td>
+		<td>deconstruct</td>
+		<td>370</td>
+	  </tr>
+	</table>
+	  <iframe src= "https://www.arduino.cc/"height =500px width =500px></iframe>
+	  <a href="">refersh</a>
+	  <a href="#">startig page </a>
+	  <a href="https://www.youtube.com/" target="_blank">youtube </a>
+	  <a href="splogin.html"target="_blank"> doc</a>
+	  <a href="#data">move</a>
+	  
+	  
+	  <br><img src="assets/images/sm.jpg" height =280px width =280px /></br>
+	  <form action=" ">
+	  <center><b><p> LOGIN FORM </p></b>
+	  <b><br><label for="fname"> FIRST NAME:</label></b>
+	  </br><input type="text" placeholder="user the name"/></br>
+	  <b><label for="fname"> PASSWORD:</label></b>
+	  <br><input type="text" placeholder="password"/></br>
+	  <br><input type="button" value="sign in"/></br>
+	  <i><center><b><p div style="color:green"> BIO DATA </p></b></i>
+	  <b><br><label for="fname"> NAME:</label></b>
+	  </br><input type="text" placeholder="enter your name"/></br>
+	   <b><label for="fname"> GENDER:</label></b> 
+	  <input type="radio" name=""/>MALE
+	  <input type="radio" name=""/>FEMALE
+	   <b><br><label for="fname"> EMAIL ID :</label></b>
+	  </br><input type="text" placeholder="enter your email id"/></br>
+	  <b><br><label for="fname"> FATHER NAME:</label></b>
+	  </br><input type="text" placeholder="name"/></br>
+	  <b><br><label for="fname"> MOTHER NAME:</label></b>
+	  </br><input type="text" placeholder="name"/></br>
+	  <b><br><label for="fname"> CITY:</label>
+	   <select>
+		<option value=1>madurai</option>
+		<option value=2>chennai</option>
+		<option value=3>theni</option>
+		</select><br><br>
+	  <input type="button" value="submit"/><br>
+	  
+	  
+	  
+	  
+	  <br><input type="reset"/>
+	  <input type="data"/>
+	  <input type="button" value="sign in"/>
+	  <input type="range"/></br>
+   	</body>
+	</html>
